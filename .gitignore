@@ -32,5 +32,5 @@
 *.app
 
 # ClionFiles
-cmake-build-debug
+cmake-build-debug*
 CMakeLists.txt
