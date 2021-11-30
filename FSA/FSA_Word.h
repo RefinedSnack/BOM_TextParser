@@ -34,7 +34,7 @@ private:
         {
             return;
         }
-        else if (isalpha(curr()))
+        else if (!isspace(curr()))
         {
             advance();
             S1();

@@ -5,36 +5,43 @@
 #ifndef BOM_TEXTPARSER_TOKEN_H
 #define BOM_TEXTPARSER_TOKEN_H
 
-#include "VerseLocation.h"
 #include <map>
 #include <ostream>
 
 class Token
 {
-    VerseLocation location;
-    std::string word;
-    std::string speaker;
-    std::string scribe;
-    size_t tokenNumber;
+    size_t tokenID = 0;
+    std::string wordValue = "";
+    std::string speaker = "";
+    std::string scribe = "";
+    std::string partOfSpeech = "";
+    size_t verseID  = 0;
 public:
-    const VerseLocation &getLocation() const
+    Token()
+    {}
+
+    Token(size_t tokenId, const std::string &wordValue, const std::string &speaker, const std::string &scribe,
+          size_t verseId) : tokenID(tokenId), wordValue(wordValue), speaker(speaker), scribe(scribe), verseID(verseId)
+    {}
+
+    size_t getTokenId() const
     {
-        return location;
+        return tokenID;
     }
 
-    void setLocation(const VerseLocation &location)
+    void setTokenId(size_t tokenId)
     {
-        Token::location = location;
+        tokenID = tokenId;
     }
 
-    const std::string &getWord() const
+    const std::string &getWordValue() const
     {
-        return word;
+        return wordValue;
     }
 
-    void setWord(const std::string &word)
+    void setWordValue(const std::string &wordValue)
     {
-        Token::word = word;
+        Token::wordValue = wordValue;
     }
 
     const std::string &getSpeaker() const
@@ -57,23 +64,23 @@ public:
         Token::scribe = scribe;
     }
 
-    size_t getTokenNumber() const
+    size_t getVerseId() const
     {
-        return tokenNumber;
+        return verseID;
     }
 
-    void setTokenNumber(size_t tokenNumber)
+    void setVerseId(size_t verseId)
     {
-        Token::tokenNumber = tokenNumber;
+        verseID = verseId;
     }
 
     friend std::ostream &operator<<(std::ostream &os, const Token &token)
     {
-        os << "location: {" << token.location
-           << "} word: " << token.word
+        os << "tokenID: " << token.tokenID
+           << " wordValue: " << token.wordValue
            << " speaker: " << token.speaker
            << " scribe: " << token.scribe
-           << " tokenNumber: " << token.tokenNumber;
+           << " verseID: " << token.verseID;
         return os;
     }
 };

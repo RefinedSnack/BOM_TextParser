@@ -1,0 +1,971 @@
+| TokenID         | Word Value      | Speaker         | Scribe          | VerseID         | 
+| 0               | And             |                 |                 | 1               | 
+| 1               | my              |                 |                 | 1               | 
+| 2               | father          |                 |                 | 1               | 
+| 3               | dwelt           |                 |                 | 1               | 
+| 4               | in              |                 |                 | 1               | 
+| 5               | a               |                 |                 | 1               | 
+| 6               | tent            |                 |                 | 1               | 
+| 7               | And             |                 |                 | 2               | 
+| 8               | it              |                 |                 | 2               | 
+| 9               | came            |                 |                 | 2               | 
+| 10              | to              |                 |                 | 2               | 
+| 11              | pass            |                 |                 | 2               | 
+| 12              | that            |                 |                 | 2               | 
+| 13              | I               |                 |                 | 2               | 
+| 14              | Nephi           |                 |                 | 2               | 
+| 15              | being           |                 |                 | 2               | 
+| 16              | exceedingly     |                 |                 | 2               | 
+| 17              | young           |                 |                 | 2               | 
+| 18              | nevertheless    |                 |                 | 2               | 
+| 19              | being           |                 |                 | 2               | 
+| 20              | large           |                 |                 | 2               | 
+| 21              | in              |                 |                 | 2               | 
+| 22              | stature         |                 |                 | 2               | 
+| 23              | and             |                 |                 | 2               | 
+| 24              | also            |                 |                 | 2               | 
+| 25              | having          |                 |                 | 2               | 
+| 26              | great           |                 |                 | 2               | 
+| 27              | desires         |                 |                 | 2               | 
+| 28              | to              |                 |                 | 2               | 
+| 29              | know            |                 |                 | 2               | 
+| 30              | of              |                 |                 | 2               | 
+| 31              | the             |                 |                 | 2               | 
+| 32              | mysteries       |                 |                 | 2               | 
+| 33              | of              |                 |                 | 2               | 
+| 34              | God             |                 |                 | 2               | 
+| 35              | wherefore       |                 |                 | 2               | 
+| 36              | I               |                 |                 | 2               | 
+| 37              | did             |                 |                 | 2               | 
+| 38              | cry             |                 |                 | 2               | 
+| 39              | unto            |                 |                 | 2               | 
+| 40              | the             |                 |                 | 2               | 
+| 41              | Lord            |                 |                 | 2               | 
+| 42              | and             |                 |                 | 2               | 
+| 43              | behold          |                 |                 | 2               | 
+| 44              | he              |                 |                 | 2               | 
+| 45              | did             |                 |                 | 2               | 
+| 46              | visit           |                 |                 | 2               | 
+| 47              | me              |                 |                 | 2               | 
+| 48              | and             |                 |                 | 2               | 
+| 49              | did             |                 |                 | 2               | 
+| 50              | soften          |                 |                 | 2               | 
+| 51              | my              |                 |                 | 2               | 
+| 52              | heart           |                 |                 | 2               | 
+| 53              | that            |                 |                 | 2               | 
+| 54              | I               |                 |                 | 2               | 
+| 55              | did             |                 |                 | 2               | 
+| 56              | believe         |                 |                 | 2               | 
+| 57              | all             |                 |                 | 2               | 
+| 58              | the             |                 |                 | 2               | 
+| 59              | words           |                 |                 | 2               | 
+| 60              | which           |                 |                 | 2               | 
+| 61              | had             |                 |                 | 2               | 
+| 62              | been            |                 |                 | 2               | 
+| 63              | spoken          |                 |                 | 2               | 
+| 64              | by              |                 |                 | 2               | 
+| 65              | my              |                 |                 | 2               | 
+| 66              | father          |                 |                 | 2               | 
+| 67              | wherefore       |                 |                 | 2               | 
+| 68              | I               |                 |                 | 2               | 
+| 69              | did             |                 |                 | 2               | 
+| 70              | not             |                 |                 | 2               | 
+| 71              | rebel           |                 |                 | 2               | 
+| 72              | against         |                 |                 | 2               | 
+| 73              | him             |                 |                 | 2               | 
+| 74              | like            |                 |                 | 2               | 
+| 75              | unto            |                 |                 | 2               | 
+| 76              | my              |                 |                 | 2               | 
+| 77              | brothers        |                 |                 | 2               | 
+| 78              | And             |                 |                 | 3               | 
+| 79              | I               |                 |                 | 3               | 
+| 80              | spake           |                 |                 | 3               | 
+| 81              | unto            |                 |                 | 3               | 
+| 82              | Sam             |                 |                 | 3               | 
+| 83              | making          |                 |                 | 3               | 
+| 84              | known           |                 |                 | 3               | 
+| 85              | unto            |                 |                 | 3               | 
+| 86              | him             |                 |                 | 3               | 
+| 87              | the             |                 |                 | 3               | 
+| 88              | things          |                 |                 | 3               | 
+| 89              | which           |                 |                 | 3               | 
+| 90              | the             |                 |                 | 3               | 
+| 91              | Lord            |                 |                 | 3               | 
+| 92              | had             |                 |                 | 3               | 
+| 93              | manifested      |                 |                 | 3               | 
+| 94              | unto            |                 |                 | 3               | 
+| 95              | me              |                 |                 | 3               | 
+| 96              | by              |                 |                 | 3               | 
+| 97              | his             |                 |                 | 3               | 
+| 98              | Holy            |                 |                 | 3               | 
+| 99              | Spirit          |                 |                 | 3               | 
+| 100             | And             |                 |                 | 3               | 
+| 101             | it              |                 |                 | 3               | 
+| 102             | came            |                 |                 | 3               | 
+| 103             | to              |                 |                 | 3               | 
+| 104             | pass            |                 |                 | 3               | 
+| 105             | that            |                 |                 | 3               | 
+| 106             | he              |                 |                 | 3               | 
+| 107             | believed        |                 |                 | 3               | 
+| 108             | in              |                 |                 | 3               | 
+| 109             | my              |                 |                 | 3               | 
+| 110             | words           |                 |                 | 3               | 
+| 111             | But             |                 |                 | 4               | 
+| 112             | behold          |                 |                 | 4               | 
+| 113             | Laman           |                 |                 | 4               | 
+| 114             | and             |                 |                 | 4               | 
+| 115             | Lemuel          |                 |                 | 4               | 
+| 116             | would           |                 |                 | 4               | 
+| 117             | not             |                 |                 | 4               | 
+| 118             | hearken         |                 |                 | 4               | 
+| 119             | unto            |                 |                 | 4               | 
+| 120             | my              |                 |                 | 4               | 
+| 121             | words           |                 |                 | 4               | 
+| 122             | and             |                 |                 | 4               | 
+| 123             | being           |                 |                 | 4               | 
+| 124             | grieved         |                 |                 | 4               | 
+| 125             | because         |                 |                 | 4               | 
+| 126             | of              |                 |                 | 4               | 
+| 127             | the             |                 |                 | 4               | 
+| 128             | hardness        |                 |                 | 4               | 
+| 129             | of              |                 |                 | 4               | 
+| 130             | their           |                 |                 | 4               | 
+| 131             | hearts          |                 |                 | 4               | 
+| 132             | I               |                 |                 | 4               | 
+| 133             | cried           |                 |                 | 4               | 
+| 134             | unto            |                 |                 | 4               | 
+| 135             | the             |                 |                 | 4               | 
+| 136             | Lord            |                 |                 | 4               | 
+| 137             | for             |                 |                 | 4               | 
+| 138             | them            |                 |                 | 4               | 
+| 139             | And             |                 |                 | 5               | 
+| 140             | it              |                 |                 | 5               | 
+| 141             | came            |                 |                 | 5               | 
+| 142             | to              |                 |                 | 5               | 
+| 143             | pass            |                 |                 | 5               | 
+| 144             | that            |                 |                 | 5               | 
+| 145             | the             |                 |                 | 5               | 
+| 146             | Lord            |                 |                 | 5               | 
+| 147             | spake           |                 |                 | 5               | 
+| 148             | unto            |                 |                 | 5               | 
+| 149             | me              |                 |                 | 5               | 
+| 150             | saying          |                 |                 | 5               | 
+| 151             | Blessed         | Godhead         |                 | 5               | 
+| 152             | art             | Godhead         |                 | 5               | 
+| 153             | thou            | Godhead         |                 | 5               | 
+| 154             | Nephi           | Godhead         |                 | 5               | 
+| 155             | because         | Godhead         |                 | 5               | 
+| 156             | of              | Godhead         |                 | 5               | 
+| 157             | thy             | Godhead         |                 | 5               | 
+| 158             | faith           | Godhead         |                 | 5               | 
+| 159             | for             | Godhead         |                 | 5               | 
+| 160             | thou            | Godhead         |                 | 5               | 
+| 161             | hast            | Godhead         |                 | 5               | 
+| 162             | sought          | Godhead         |                 | 5               | 
+| 163             | me              | Godhead         |                 | 5               | 
+| 164             | diligently      | Godhead         |                 | 5               | 
+| 165             | with            | Godhead         |                 | 5               | 
+| 166             | lowliness       | Godhead         |                 | 5               | 
+| 167             | of              | Godhead         |                 | 5               | 
+| 168             | heart           | Godhead         |                 | 5               | 
+| 169             | And             | Godhead         |                 | 6               | 
+| 170             | inasmuch        | Godhead         |                 | 6               | 
+| 171             | as              | Godhead         |                 | 6               | 
+| 172             | ye              | Godhead         |                 | 6               | 
+| 173             | shall           | Godhead         |                 | 6               | 
+| 174             | keep            | Godhead         |                 | 6               | 
+| 175             | my              | Godhead         |                 | 6               | 
+| 176             | commandments    | Godhead         |                 | 6               | 
+| 177             | ye              | Godhead         |                 | 6               | 
+| 178             | shall           | Godhead         |                 | 6               | 
+| 179             | prosper         | Godhead         |                 | 6               | 
+| 180             | and             | Godhead         |                 | 6               | 
+| 181             | shall           | Godhead         |                 | 6               | 
+| 182             | be              | Godhead         |                 | 6               | 
+| 183             | led             | Godhead         |                 | 6               | 
+| 184             | to              | Godhead         |                 | 6               | 
+| 185             | a               | Godhead         |                 | 6               | 
+| 186             | land            | Godhead         |                 | 6               | 
+| 187             | of              | Godhead         |                 | 6               | 
+| 188             | promise         | Godhead         |                 | 6               | 
+| 189             | yea             | Godhead         |                 | 6               | 
+| 190             | even            | Godhead         |                 | 6               | 
+| 191             | a               | Godhead         |                 | 6               | 
+| 192             | land            | Godhead         |                 | 6               | 
+| 193             | which           | Godhead         |                 | 6               | 
+| 194             | I               | Godhead         |                 | 6               | 
+| 195             | have            | Godhead         |                 | 6               | 
+| 196             | prepared        | Godhead         |                 | 6               | 
+| 197             | for             | Godhead         |                 | 6               | 
+| 198             | you             | Godhead         |                 | 6               | 
+| 199             | yea             | Godhead         |                 | 6               | 
+| 200             | a               | Godhead         |                 | 6               | 
+| 201             | land            | Godhead         |                 | 6               | 
+| 202             | which           | Godhead         |                 | 6               | 
+| 203             | is              | Godhead         |                 | 6               | 
+| 204             | choice          | Godhead         |                 | 6               | 
+| 205             | above           | Godhead         |                 | 6               | 
+| 206             | all             | Godhead         |                 | 6               | 
+| 207             | other           | Godhead         |                 | 6               | 
+| 208             | lands           | Godhead         |                 | 6               | 
+| 209             | And             | Godhead         |                 | 7               | 
+| 210             | inasmuch        | Godhead         |                 | 7               | 
+| 211             | as              | Godhead         |                 | 7               | 
+| 212             | thy             | Godhead         |                 | 7               | 
+| 213             | brethren        | Godhead         |                 | 7               | 
+| 214             | shall           | Godhead         |                 | 7               | 
+| 215             | rebel           | Godhead         |                 | 7               | 
+| 216             | against         | Godhead         |                 | 7               | 
+| 217             | thee            | Godhead         |                 | 7               | 
+| 218             | they            | Godhead         |                 | 7               | 
+| 219             | shall           | Godhead         |                 | 7               | 
+| 220             | be              | Godhead         |                 | 7               | 
+| 221             | cut             | Godhead         |                 | 7               | 
+| 222             | off             | Godhead         |                 | 7               | 
+| 223             | from            | Godhead         |                 | 7               | 
+| 224             | the             | Godhead         |                 | 7               | 
+| 225             | presence        | Godhead         |                 | 7               | 
+| 226             | of              | Godhead         |                 | 7               | 
+| 227             | the             | Godhead         |                 | 7               | 
+| 228             | Lord            | Godhead         |                 | 7               | 
+| 229             | And             | Godhead         |                 | 8               | 
+| 230             | inasmuch        | Godhead         |                 | 8               | 
+| 231             | as              | Godhead         |                 | 8               | 
+| 232             | thou            | Godhead         |                 | 8               | 
+| 233             | shalt           | Godhead         |                 | 8               | 
+| 234             | keep            | Godhead         |                 | 8               | 
+| 235             | my              | Godhead         |                 | 8               | 
+| 236             | commandments    | Godhead         |                 | 8               | 
+| 237             | thou            | Godhead         |                 | 8               | 
+| 238             | shalt           | Godhead         |                 | 8               | 
+| 239             | be              | Godhead         |                 | 8               | 
+| 240             | made            | Godhead         |                 | 8               | 
+| 241             | a               | Godhead         |                 | 8               | 
+| 242             | ruler           | Godhead         |                 | 8               | 
+| 243             | and             | Godhead         |                 | 8               | 
+| 244             | a               | Godhead         |                 | 8               | 
+| 245             | teacher         | Godhead         |                 | 8               | 
+| 246             | over            | Godhead         |                 | 8               | 
+| 247             | thy             | Godhead         |                 | 8               | 
+| 248             | brethren        | Godhead         |                 | 8               | 
+| 249             | For             | Godhead         |                 | 9               | 
+| 250             | behold          | Godhead         |                 | 9               | 
+| 251             | in              | Godhead         |                 | 9               | 
+| 252             | that            | Godhead         |                 | 9               | 
+| 253             | day             | Godhead         |                 | 9               | 
+| 254             | that            | Godhead         |                 | 9               | 
+| 255             | they            | Godhead         |                 | 9               | 
+| 256             | shall           | Godhead         |                 | 9               | 
+| 257             | rebel           | Godhead         |                 | 9               | 
+| 258             | against         | Godhead         |                 | 9               | 
+| 259             | me              | Godhead         |                 | 9               | 
+| 260             | I               | Godhead         |                 | 9               | 
+| 261             | will            | Godhead         |                 | 9               | 
+| 262             | curse           | Godhead         |                 | 9               | 
+| 263             | them            | Godhead         |                 | 9               | 
+| 264             | even            | Godhead         |                 | 9               | 
+| 265             | with            | Godhead         |                 | 9               | 
+| 266             | a               | Godhead         |                 | 9               | 
+| 267             | sore            | Godhead         |                 | 9               | 
+| 268             | curse           | Godhead         |                 | 9               | 
+| 269             | and             | Godhead         |                 | 9               | 
+| 270             | they            | Godhead         |                 | 9               | 
+| 271             | shall           | Godhead         |                 | 9               | 
+| 272             | have            | Godhead         |                 | 9               | 
+| 273             | no              | Godhead         |                 | 9               | 
+| 274             | power           | Godhead         |                 | 9               | 
+| 275             | over            | Godhead         |                 | 9               | 
+| 276             | thy             | Godhead         |                 | 9               | 
+| 277             | seed            | Godhead         |                 | 9               | 
+| 278             | except          | Godhead         |                 | 9               | 
+| 279             | they            | Godhead         |                 | 9               | 
+| 280             | shall           | Godhead         |                 | 9               | 
+| 281             | rebel           | Godhead         |                 | 9               | 
+| 282             | against         | Godhead         |                 | 9               | 
+| 283             | me              | Godhead         |                 | 9               | 
+| 284             | also            | Godhead         |                 | 9               | 
+| 285             | And             | Godhead         |                 | 10              | 
+| 286             | if              | Godhead         |                 | 10              | 
+| 287             | it              | Godhead         |                 | 10              | 
+| 288             | so              | Godhead         |                 | 10              | 
+| 289             | be              | Godhead         |                 | 10              | 
+| 290             | that            | Godhead         |                 | 10              | 
+| 291             | they            | Godhead         |                 | 10              | 
+| 292             | rebel           | Godhead         |                 | 10              | 
+| 293             | against         | Godhead         |                 | 10              | 
+| 294             | me              | Godhead         |                 | 10              | 
+| 295             | they            | Godhead         |                 | 10              | 
+| 296             | shall           | Godhead         |                 | 10              | 
+| 297             | be              | Godhead         |                 | 10              | 
+| 298             | a               | Godhead         |                 | 10              | 
+| 299             | scourge         | Godhead         |                 | 10              | 
+| 300             | unto            | Godhead         |                 | 10              | 
+| 301             | thy             | Godhead         |                 | 10              | 
+| 302             | seed            | Godhead         |                 | 10              | 
+| 303             | to              | Godhead         |                 | 10              | 
+| 304             | stir            | Godhead         |                 | 10              | 
+| 305             | them            | Godhead         |                 | 10              | 
+| 306             | up              | Godhead         |                 | 10              | 
+| 307             | in              | Godhead         |                 | 10              | 
+| 308             | the             | Godhead         |                 | 10              | 
+| 309             | ways            | Godhead         |                 | 10              | 
+| 310             | of              | Godhead         |                 | 10              | 
+| 311             | remembrance     | Godhead         |                 | 10              | 
+| 312             | And             | Nephi 1         |                 | 11              | 
+| 313             | it              | Nephi 1         |                 | 11              | 
+| 314             | came            | Nephi 1         |                 | 11              | 
+| 315             | to              | Nephi 1         |                 | 11              | 
+| 316             | pass            | Nephi 1         |                 | 11              | 
+| 317             | that            | Nephi 1         |                 | 11              | 
+| 318             | I               | Nephi 1         |                 | 11              | 
+| 319             | Nephi           | Nephi 1         |                 | 11              | 
+| 320             | returned        | Nephi 1         |                 | 11              | 
+| 321             | from            | Nephi 1         |                 | 11              | 
+| 322             | speaking        | Nephi 1         |                 | 11              | 
+| 323             | with            | Nephi 1         |                 | 11              | 
+| 324             | the             | Nephi 1         |                 | 11              | 
+| 325             | Lord            | Nephi 1         |                 | 11              | 
+| 326             | to              | Nephi 1         |                 | 11              | 
+| 327             | the             | Nephi 1         |                 | 11              | 
+| 328             | tent            | Nephi 1         |                 | 11              | 
+| 329             | of              | Nephi 1         |                 | 11              | 
+| 330             | my              | Nephi 1         |                 | 11              | 
+| 331             | father          | Nephi 1         |                 | 11              | 
+| 332             | And             | Nephi 1         |                 | 12              | 
+| 333             | it              | Nephi 1         |                 | 12              | 
+| 334             | came            | Nephi 1         |                 | 12              | 
+| 335             | to              | Nephi 1         |                 | 12              | 
+| 336             | pass            | Nephi 1         |                 | 12              | 
+| 337             | that            | Nephi 1         |                 | 12              | 
+| 338             | he              | Nephi 1         |                 | 12              | 
+| 339             | spake           | Nephi 1         |                 | 12              | 
+| 340             | unto            | Nephi 1         |                 | 12              | 
+| 341             | me              | Nephi 1         |                 | 12              | 
+| 342             | saying          | Nephi 1         |                 | 12              | 
+| 343             | Behold          | Lehi            |                 | 12              | 
+| 344             | I               | Lehi            |                 | 12              | 
+| 345             | have            | Lehi            |                 | 12              | 
+| 346             | dreamed         | Lehi            |                 | 12              | 
+| 347             | a               | Lehi            |                 | 12              | 
+| 348             | dream           | Lehi            |                 | 12              | 
+| 349             | in              | Lehi            |                 | 12              | 
+| 350             | the             | Lehi            |                 | 12              | 
+| 351             | which           | Lehi            |                 | 12              | 
+| 352             | the             | Lehi            |                 | 12              | 
+| 353             | Lord            | Lehi            |                 | 12              | 
+| 354             | hath            | Lehi            |                 | 12              | 
+| 355             | commanded       | Lehi            |                 | 12              | 
+| 356             | me              | Lehi            |                 | 12              | 
+| 357             | that            | Lehi            |                 | 12              | 
+| 358             | thou            | Lehi            |                 | 12              | 
+| 359             | and             | Lehi            |                 | 12              | 
+| 360             | thy             | Lehi            |                 | 12              | 
+| 361             | brethren        | Lehi            |                 | 12              | 
+| 362             | shall           | Lehi            |                 | 12              | 
+| 363             | return          | Lehi            |                 | 12              | 
+| 364             | to              | Lehi            |                 | 12              | 
+| 365             | Jerusalem       | Lehi            |                 | 12              | 
+| 366             | For             | Lehi            |                 | 13              | 
+| 367             | behold          | Lehi            |                 | 13              | 
+| 368             | Laban           | Lehi            |                 | 13              | 
+| 369             | hath            | Lehi            |                 | 13              | 
+| 370             | the             | Lehi            |                 | 13              | 
+| 371             | record          | Lehi            |                 | 13              | 
+| 372             | of              | Lehi            |                 | 13              | 
+| 373             | the             | Lehi            |                 | 13              | 
+| 374             | Jews            | Lehi            |                 | 13              | 
+| 375             | and             | Lehi            |                 | 13              | 
+| 376             | also            | Lehi            |                 | 13              | 
+| 377             | a               | Lehi            |                 | 13              | 
+| 378             | genealogy       | Lehi            |                 | 13              | 
+| 379             | of              | Lehi            |                 | 13              | 
+| 380             | my              | Lehi            |                 | 13              | 
+| 381             | forefathers     | Lehi            |                 | 13              | 
+| 382             | and             | Lehi            |                 | 13              | 
+| 383             | they            | Lehi            |                 | 13              | 
+| 384             | are             | Lehi            |                 | 13              | 
+| 385             | engraven        | Lehi            |                 | 13              | 
+| 386             | upon            | Lehi            |                 | 13              | 
+| 387             | plates          | Lehi            |                 | 13              | 
+| 388             | of              | Lehi            |                 | 13              | 
+| 389             | brass           | Lehi            |                 | 13              | 
+| 390             | Wherefore       | Lehi            |                 | 14              | 
+| 391             | the             | Lehi            |                 | 14              | 
+| 392             | Lord            | Lehi            |                 | 14              | 
+| 393             | hath            | Lehi            |                 | 14              | 
+| 394             | commanded       | Lehi            |                 | 14              | 
+| 395             | me              | Lehi            |                 | 14              | 
+| 396             | that            | Lehi            |                 | 14              | 
+| 397             | thou            | Lehi            |                 | 14              | 
+| 398             | and             | Lehi            |                 | 14              | 
+| 399             | thy             | Lehi            |                 | 14              | 
+| 400             | brothers        | Lehi            |                 | 14              | 
+| 401             | should          | Lehi            |                 | 14              | 
+| 402             | go              | Lehi            |                 | 14              | 
+| 403             | unto            | Lehi            |                 | 14              | 
+| 404             | the             | Lehi            |                 | 14              | 
+| 405             | house           | Lehi            |                 | 14              | 
+| 406             | of              | Lehi            |                 | 14              | 
+| 407             | Laban           | Lehi            |                 | 14              | 
+| 408             | and             | Lehi            |                 | 14              | 
+| 409             | seek            | Lehi            |                 | 14              | 
+| 410             | the             | Lehi            |                 | 14              | 
+| 411             | records         | Lehi            |                 | 14              | 
+| 412             | and             | Lehi            |                 | 14              | 
+| 413             | bring           | Lehi            |                 | 14              | 
+| 414             | them            | Lehi            |                 | 14              | 
+| 415             | down            | Lehi            |                 | 14              | 
+| 416             | hither          | Lehi            |                 | 14              | 
+| 417             | into            | Lehi            |                 | 14              | 
+| 418             | the             | Lehi            |                 | 14              | 
+| 419             | wilderness      | Lehi            |                 | 14              | 
+| 420             | And             | Lehi            |                 | 15              | 
+| 421             | now             | Lehi            |                 | 15              | 
+| 422             | behold          | Lehi            |                 | 15              | 
+| 423             | thy             | Lehi            |                 | 15              | 
+| 424             | brothers        | Lehi            |                 | 15              | 
+| 425             | murmur          | Lehi            |                 | 15              | 
+| 426             | saying          | Lehi            |                 | 15              | 
+| 427             | it              | Lehi            |                 | 15              | 
+| 428             | is              | Lehi            |                 | 15              | 
+| 429             | a               | Lehi            |                 | 15              | 
+| 430             | hard            | Lehi            |                 | 15              | 
+| 431             | thing           | Lehi            |                 | 15              | 
+| 432             | which           | Lehi            |                 | 15              | 
+| 433             | I               | Lehi            |                 | 15              | 
+| 434             | have            | Lehi            |                 | 15              | 
+| 435             | required        | Lehi            |                 | 15              | 
+| 436             | of              | Lehi            |                 | 15              | 
+| 437             | them            | Lehi            |                 | 15              | 
+| 438             | but             | Lehi            |                 | 15              | 
+| 439             | behold          | Lehi            |                 | 15              | 
+| 440             | I               | Lehi            |                 | 15              | 
+| 441             | have            | Lehi            |                 | 15              | 
+| 442             | not             | Lehi            |                 | 15              | 
+| 443             | required        | Lehi            |                 | 15              | 
+| 444             | it              | Lehi            |                 | 15              | 
+| 445             | of              | Lehi            |                 | 15              | 
+| 446             | them            | Lehi            |                 | 15              | 
+| 447             | but             | Lehi            |                 | 15              | 
+| 448             | it              | Lehi            |                 | 15              | 
+| 449             | is              | Lehi            |                 | 15              | 
+| 450             | a               | Lehi            |                 | 15              | 
+| 451             | commandment     | Lehi            |                 | 15              | 
+| 452             | of              | Lehi            |                 | 15              | 
+| 453             | the             | Lehi            |                 | 15              | 
+| 454             | Lord            | Lehi            |                 | 15              | 
+| 455             | Therefore       | Lehi            |                 | 16              | 
+| 456             | go              | Lehi            |                 | 16              | 
+| 457             | my              | Lehi            |                 | 16              | 
+| 458             | son             | Lehi            |                 | 16              | 
+| 459             | and             | Lehi            |                 | 16              | 
+| 460             | thou            | Lehi            |                 | 16              | 
+| 461             | shalt           | Lehi            |                 | 16              | 
+| 462             | be              | Lehi            |                 | 16              | 
+| 463             | favored         | Lehi            |                 | 16              | 
+| 464             | of              | Lehi            |                 | 16              | 
+| 465             | the             | Lehi            |                 | 16              | 
+| 466             | Lord            | Lehi            |                 | 16              | 
+| 467             | because         | Lehi            |                 | 16              | 
+| 468             | thou            | Lehi            |                 | 16              | 
+| 469             | hast            | Lehi            |                 | 16              | 
+| 470             | not             | Lehi            |                 | 16              | 
+| 471             | murmured        | Lehi            |                 | 16              | 
+| 472             | And             | Nephi 1         |                 | 17              | 
+| 473             | it              | Nephi 1         |                 | 17              | 
+| 474             | came            | Nephi 1         |                 | 17              | 
+| 475             | to              | Nephi 1         |                 | 17              | 
+| 476             | pass            | Nephi 1         |                 | 17              | 
+| 477             | that            | Nephi 1         |                 | 17              | 
+| 478             | I               | Nephi 1         |                 | 17              | 
+| 479             | Nephi           | Nephi 1         |                 | 17              | 
+| 480             | said            | Nephi 1         |                 | 17              | 
+| 481             | unto            | Nephi 1         |                 | 17              | 
+| 482             | my              | Nephi 1         |                 | 17              | 
+| 483             | father          | Nephi 1         |                 | 17              | 
+| 484             | I               | Nephi 1         |                 | 17              | 
+| 485             | will            | Nephi 1         |                 | 17              | 
+| 486             | go              | Nephi 1         |                 | 17              | 
+| 487             | and             | Nephi 1         |                 | 17              | 
+| 488             | do              | Nephi 1         |                 | 17              | 
+| 489             | the             | Nephi 1         |                 | 17              | 
+| 490             | things          | Nephi 1         |                 | 17              | 
+| 491             | which           | Nephi 1         |                 | 17              | 
+| 492             | the             | Nephi 1         |                 | 17              | 
+| 493             | Lord            | Nephi 1         |                 | 17              | 
+| 494             | hath            | Nephi 1         |                 | 17              | 
+| 495             | commanded       | Nephi 1         |                 | 17              | 
+| 496             | for             | Nephi 1         |                 | 17              | 
+| 497             | I               | Nephi 1         |                 | 17              | 
+| 498             | know            | Nephi 1         |                 | 17              | 
+| 499             | that            | Nephi 1         |                 | 17              | 
+| 500             | the             | Nephi 1         |                 | 17              | 
+| 501             | Lord            | Nephi 1         |                 | 17              | 
+| 502             | giveth          | Nephi 1         |                 | 17              | 
+| 503             | no              | Nephi 1         |                 | 17              | 
+| 504             | commandments    | Nephi 1         |                 | 17              | 
+| 505             | unto            | Nephi 1         |                 | 17              | 
+| 506             | the             | Nephi 1         |                 | 17              | 
+| 507             | children        | Nephi 1         |                 | 17              | 
+| 508             | of              | Nephi 1         |                 | 17              | 
+| 509             | men             | Nephi 1         |                 | 17              | 
+| 510             | save            | Nephi 1         |                 | 17              | 
+| 511             | he              | Nephi 1         |                 | 17              | 
+| 512             | shall           | Nephi 1         |                 | 17              | 
+| 513             | prepare         | Nephi 1         |                 | 17              | 
+| 514             | a               | Nephi 1         |                 | 17              | 
+| 515             | way             | Nephi 1         |                 | 17              | 
+| 516             | for             | Nephi 1         |                 | 17              | 
+| 517             | them            | Nephi 1         |                 | 17              | 
+| 518             | that            | Nephi 1         |                 | 17              | 
+| 519             | they            | Nephi 1         |                 | 17              | 
+| 520             | may             | Nephi 1         |                 | 17              | 
+| 521             | accomplish      | Nephi 1         |                 | 17              | 
+| 522             | the             | Nephi 1         |                 | 17              | 
+| 523             | thing           | Nephi 1         |                 | 17              | 
+| 524             | which           | Nephi 1         |                 | 17              | 
+| 525             | he              | Nephi 1         |                 | 17              | 
+| 526             | commandeth      | Nephi 1         |                 | 17              | 
+| 527             | them            | Nephi 1         |                 | 17              | 
+| 528             | And             | Nephi 1         |                 | 18              | 
+| 529             | it              | Nephi 1         |                 | 18              | 
+| 530             | came            | Nephi 1         |                 | 18              | 
+| 531             | to              | Nephi 1         |                 | 18              | 
+| 532             | pass            | Nephi 1         |                 | 18              | 
+| 533             | that            | Nephi 1         |                 | 18              | 
+| 534             | when            | Nephi 1         |                 | 18              | 
+| 535             | my              | Nephi 1         |                 | 18              | 
+| 536             | father          | Nephi 1         |                 | 18              | 
+| 537             | had             | Nephi 1         |                 | 18              | 
+| 538             | heard           | Nephi 1         |                 | 18              | 
+| 539             | these           | Nephi 1         |                 | 18              | 
+| 540             | words           | Nephi 1         |                 | 18              | 
+| 541             | he              | Nephi 1         |                 | 18              | 
+| 542             | was             | Nephi 1         |                 | 18              | 
+| 543             | exceedingly     | Nephi 1         |                 | 18              | 
+| 544             | glad            | Nephi 1         |                 | 18              | 
+| 545             | for             | Nephi 1         |                 | 18              | 
+| 546             | he              | Nephi 1         |                 | 18              | 
+| 547             | knew            | Nephi 1         |                 | 18              | 
+| 548             | that            | Nephi 1         |                 | 18              | 
+| 549             | I               | Nephi 1         |                 | 18              | 
+| 550             | had             | Nephi 1         |                 | 18              | 
+| 551             | been            | Nephi 1         |                 | 18              | 
+| 552             | blessed         | Nephi 1         |                 | 18              | 
+| 553             | of              | Nephi 1         |                 | 18              | 
+| 554             | the             | Nephi 1         |                 | 18              | 
+| 555             | Lord            | Nephi 1         |                 | 18              | 
+| 556             | And             | Nephi 1         |                 | 19              | 
+| 557             | I               | Nephi 1         |                 | 19              | 
+| 558             | Nephi           | Nephi 1         |                 | 19              | 
+| 559             | and             | Nephi 1         |                 | 19              | 
+| 560             | my              | Nephi 1         |                 | 19              | 
+| 561             | brethren        | Nephi 1         |                 | 19              | 
+| 562             | took            | Nephi 1         |                 | 19              | 
+| 563             | our             | Nephi 1         |                 | 19              | 
+| 564             | journey         | Nephi 1         |                 | 19              | 
+| 565             | in              | Nephi 1         |                 | 19              | 
+| 566             | the             | Nephi 1         |                 | 19              | 
+| 567             | wilderness      | Nephi 1         |                 | 19              | 
+| 568             | with            | Nephi 1         |                 | 19              | 
+| 569             | our             | Nephi 1         |                 | 19              | 
+| 570             | tents           | Nephi 1         |                 | 19              | 
+| 571             | to              | Nephi 1         |                 | 19              | 
+| 572             | go              | Nephi 1         |                 | 19              | 
+| 573             | up              | Nephi 1         |                 | 19              | 
+| 574             | to              | Nephi 1         |                 | 19              | 
+| 575             | the             | Nephi 1         |                 | 19              | 
+| 576             | land            | Nephi 1         |                 | 19              | 
+| 577             | of              | Nephi 1         |                 | 19              | 
+| 578             | Jerusalem       | Nephi 1         |                 | 19              | 
+| 579             | And             | Nephi 1         |                 | 20              | 
+| 580             | it              | Nephi 1         |                 | 20              | 
+| 581             | came            | Nephi 1         |                 | 20              | 
+| 582             | to              | Nephi 1         |                 | 20              | 
+| 583             | pass            | Nephi 1         |                 | 20              | 
+| 584             | that            | Nephi 1         |                 | 20              | 
+| 585             | when            | Nephi 1         |                 | 20              | 
+| 586             | we              | Nephi 1         |                 | 20              | 
+| 587             | had             | Nephi 1         |                 | 20              | 
+| 588             | gone            | Nephi 1         |                 | 20              | 
+| 589             | up              | Nephi 1         |                 | 20              | 
+| 590             | to              | Nephi 1         |                 | 20              | 
+| 591             | the             | Nephi 1         |                 | 20              | 
+| 592             | land            | Nephi 1         |                 | 20              | 
+| 593             | of              | Nephi 1         |                 | 20              | 
+| 594             | Jerusalem       | Nephi 1         |                 | 20              | 
+| 595             | I               | Nephi 1         |                 | 20              | 
+| 596             | and             | Nephi 1         |                 | 20              | 
+| 597             | my              | Nephi 1         |                 | 20              | 
+| 598             | brethren        | Nephi 1         |                 | 20              | 
+| 599             | did             | Nephi 1         |                 | 20              | 
+| 600             | consult         | Nephi 1         |                 | 20              | 
+| 601             | one             | Nephi 1         |                 | 20              | 
+| 602             | with            | Nephi 1         |                 | 20              | 
+| 603             | another         | Nephi 1         |                 | 20              | 
+| 604             | And             | Nephi 1         |                 | 21              | 
+| 605             | we              | Nephi 1         |                 | 21              | 
+| 606             | cast            | Nephi 1         |                 | 21              | 
+| 607             | lots            | Nephi 1         |                 | 21              | 
+| 608             | who             | Nephi 1         |                 | 21              | 
+| 609             | of              | Nephi 1         |                 | 21              | 
+| 610             | us              | Nephi 1         |                 | 21              | 
+| 611             | should          | Nephi 1         |                 | 21              | 
+| 612             | go              | Nephi 1         |                 | 21              | 
+| 613             | in              | Nephi 1         |                 | 21              | 
+| 614             | unto            | Nephi 1         |                 | 21              | 
+| 615             | the             | Nephi 1         |                 | 21              | 
+| 616             | house           | Nephi 1         |                 | 21              | 
+| 617             | of              | Nephi 1         |                 | 21              | 
+| 618             | Laban           | Nephi 1         |                 | 21              | 
+| 619             | And             | Nephi 1         |                 | 21              | 
+| 620             | it              | Nephi 1         |                 | 21              | 
+| 621             | came            | Nephi 1         |                 | 21              | 
+| 622             | to              | Nephi 1         |                 | 21              | 
+| 623             | pass            | Nephi 1         |                 | 21              | 
+| 624             | that            | Nephi 1         |                 | 21              | 
+| 625             | the             | Nephi 1         |                 | 21              | 
+| 626             | lot             | Nephi 1         |                 | 21              | 
+| 627             | fell            | Nephi 1         |                 | 21              | 
+| 628             | upon            | Nephi 1         |                 | 21              | 
+| 629             | Laman           | Nephi 1         |                 | 21              | 
+| 630             | and             | Nephi 1         |                 | 21              | 
+| 631             | Laman           | Nephi 1         |                 | 21              | 
+| 632             | went            | Nephi 1         |                 | 21              | 
+| 633             | in              | Nephi 1         |                 | 21              | 
+| 634             | unto            | Nephi 1         |                 | 21              | 
+| 635             | the             | Nephi 1         |                 | 21              | 
+| 636             | house           | Nephi 1         |                 | 21              | 
+| 637             | of              | Nephi 1         |                 | 21              | 
+| 638             | Laban           | Nephi 1         |                 | 21              | 
+| 639             | and             | Nephi 1         |                 | 21              | 
+| 640             | he              | Nephi 1         |                 | 21              | 
+| 641             | talked          | Nephi 1         |                 | 21              | 
+| 642             | with            | Nephi 1         |                 | 21              | 
+| 643             | him             | Nephi 1         |                 | 21              | 
+| 644             | as              | Nephi 1         |                 | 21              | 
+| 645             | he              | Nephi 1         |                 | 21              | 
+| 646             | sat             | Nephi 1         |                 | 21              | 
+| 647             | in              | Nephi 1         |                 | 21              | 
+| 648             | his             | Nephi 1         |                 | 21              | 
+| 649             | house           | Nephi 1         |                 | 21              | 
+| 650             | And             | Nephi 1         |                 | 22              | 
+| 651             | he              | Nephi 1         |                 | 22              | 
+| 652             | desired         | Nephi 1         |                 | 22              | 
+| 653             | of              | Nephi 1         |                 | 22              | 
+| 654             | Laban           | Nephi 1         |                 | 22              | 
+| 655             | the             | Nephi 1         |                 | 22              | 
+| 656             | records         | Nephi 1         |                 | 22              | 
+| 657             | which           | Nephi 1         |                 | 22              | 
+| 658             | were            | Nephi 1         |                 | 22              | 
+| 659             | engraven        | Nephi 1         |                 | 22              | 
+| 660             | upon            | Nephi 1         |                 | 22              | 
+| 661             | the             | Nephi 1         |                 | 22              | 
+| 662             | plates          | Nephi 1         |                 | 22              | 
+| 663             | of              | Nephi 1         |                 | 22              | 
+| 664             | brass           | Nephi 1         |                 | 22              | 
+| 665             | which           | Nephi 1         |                 | 22              | 
+| 666             | contained       | Nephi 1         |                 | 22              | 
+| 667             | the             | Nephi 1         |                 | 22              | 
+| 668             | genealogy       | Nephi 1         |                 | 22              | 
+| 669             | of              | Nephi 1         |                 | 22              | 
+| 670             | my              | Nephi 1         |                 | 22              | 
+| 671             | father          | Nephi 1         |                 | 22              | 
+| 672             | And             | Nephi 1         |                 | 23              | 
+| 673             | behold          | Nephi 1         |                 | 23              | 
+| 674             | it              | Nephi 1         |                 | 23              | 
+| 675             | came            | Nephi 1         |                 | 23              | 
+| 676             | to              | Nephi 1         |                 | 23              | 
+| 677             | pass            | Nephi 1         |                 | 23              | 
+| 678             | that            | Nephi 1         |                 | 23              | 
+| 679             | Laban           | Nephi 1         |                 | 23              | 
+| 680             | was             | Nephi 1         |                 | 23              | 
+| 681             | angry           | Nephi 1         |                 | 23              | 
+| 682             | and             | Nephi 1         |                 | 23              | 
+| 683             | thrust          | Nephi 1         |                 | 23              | 
+| 684             | him             | Nephi 1         |                 | 23              | 
+| 685             | out             | Nephi 1         |                 | 23              | 
+| 686             | from            | Nephi 1         |                 | 23              | 
+| 687             | his             | Nephi 1         |                 | 23              | 
+| 688             | presence        | Nephi 1         |                 | 23              | 
+| 689             | and             | Nephi 1         |                 | 23              | 
+| 690             | he              | Nephi 1         |                 | 23              | 
+| 691             | would           | Nephi 1         |                 | 23              | 
+| 692             | not             | Nephi 1         |                 | 23              | 
+| 693             | that            | Nephi 1         |                 | 23              | 
+| 694             | he              | Nephi 1         |                 | 23              | 
+| 695             | should          | Nephi 1         |                 | 23              | 
+| 696             | have            | Nephi 1         |                 | 23              | 
+| 697             | the             | Nephi 1         |                 | 23              | 
+| 698             | records         | Nephi 1         |                 | 23              | 
+| 699             | Wherefore       | Nephi 1         |                 | 23              | 
+| 700             | he              | Nephi 1         |                 | 23              | 
+| 701             | said            | Nephi 1         |                 | 23              | 
+| 702             | unto            | Nephi 1         |                 | 23              | 
+| 703             | him             | Nephi 1         |                 | 23              | 
+| 704             | Behold          | Laban           |                 | 23              | 
+| 705             | thou            | Laban           |                 | 23              | 
+| 706             | art             | Laban           |                 | 23              | 
+| 707             | a               | Laban           |                 | 23              | 
+| 708             | robber          | Laban           |                 | 23              | 
+| 709             | and             | Laban           |                 | 23              | 
+| 710             | I               | Laban           |                 | 23              | 
+| 711             | will            | Laban           |                 | 23              | 
+| 712             | slay            | Laban           |                 | 23              | 
+| 713             | thee            | Laban           |                 | 23              | 
+| 714             | But             | Nephi 1         |                 | 24              | 
+| 715             | Laman           | Nephi 1         |                 | 24              | 
+| 716             | fled            | Nephi 1         |                 | 24              | 
+| 717             | out             | Nephi 1         |                 | 24              | 
+| 718             | of              | Nephi 1         |                 | 24              | 
+| 719             | his             | Nephi 1         |                 | 24              | 
+| 720             | presence        | Nephi 1         |                 | 24              | 
+| 721             | and             | Nephi 1         |                 | 24              | 
+| 722             | told            | Nephi 1         |                 | 24              | 
+| 723             | the             | Nephi 1         |                 | 24              | 
+| 724             | things          | Nephi 1         |                 | 24              | 
+| 725             | which           | Nephi 1         |                 | 24              | 
+| 726             | Laban           | Nephi 1         |                 | 24              | 
+| 727             | had             | Nephi 1         |                 | 24              | 
+| 728             | done            | Nephi 1         |                 | 24              | 
+| 729             | unto            | Nephi 1         |                 | 24              | 
+| 730             | us              | Nephi 1         |                 | 24              | 
+| 731             | And             | Nephi 1         |                 | 24              | 
+| 732             | we              | Nephi 1         |                 | 24              | 
+| 733             | began           | Nephi 1         |                 | 24              | 
+| 734             | to              | Nephi 1         |                 | 24              | 
+| 735             | be              | Nephi 1         |                 | 24              | 
+| 736             | exceedingly     | Nephi 1         |                 | 24              | 
+| 737             | sorrowful       | Nephi 1         |                 | 24              | 
+| 738             | and             | Nephi 1         |                 | 24              | 
+| 739             | my              | Nephi 1         |                 | 24              | 
+| 740             | brethren        | Nephi 1         |                 | 24              | 
+| 741             | were            | Nephi 1         |                 | 24              | 
+| 742             | about           | Nephi 1         |                 | 24              | 
+| 743             | to              | Nephi 1         |                 | 24              | 
+| 744             | return          | Nephi 1         |                 | 24              | 
+| 745             | unto            | Nephi 1         |                 | 24              | 
+| 746             | my              | Nephi 1         |                 | 24              | 
+| 747             | father          | Nephi 1         |                 | 24              | 
+| 748             | in              | Nephi 1         |                 | 24              | 
+| 749             | the             | Nephi 1         |                 | 24              | 
+| 750             | wilderness      | Nephi 1         |                 | 24              | 
+| 751             | But             | Nephi 1         |                 | 25              | 
+| 752             | behold          | Nephi 1         |                 | 25              | 
+| 753             | I               | Nephi 1         |                 | 25              | 
+| 754             | said            | Nephi 1         |                 | 25              | 
+| 755             | unto            | Nephi 1         |                 | 25              | 
+| 756             | them            | Nephi 1         |                 | 25              | 
+| 757             | that            | Nephi 1         |                 | 25              | 
+| 758             | As              | Nephi 1         |                 | 25              | 
+| 759             | the             | Nephi 1         |                 | 25              | 
+| 760             | Lord            | Nephi 1         |                 | 25              | 
+| 761             | liveth          | Nephi 1         |                 | 25              | 
+| 762             | and             | Nephi 1         |                 | 25              | 
+| 763             | as              | Nephi 1         |                 | 25              | 
+| 764             | we              | Nephi 1         |                 | 25              | 
+| 765             | live            | Nephi 1         |                 | 25              | 
+| 766             | we              | Nephi 1         |                 | 25              | 
+| 767             | will            | Nephi 1         |                 | 25              | 
+| 768             | not             | Nephi 1         |                 | 25              | 
+| 769             | go              | Nephi 1         |                 | 25              | 
+| 770             | down            | Nephi 1         |                 | 25              | 
+| 771             | unto            | Nephi 1         |                 | 25              | 
+| 772             | our             | Nephi 1         |                 | 25              | 
+| 773             | father          | Nephi 1         |                 | 25              | 
+| 774             | in              | Nephi 1         |                 | 25              | 
+| 775             | the             | Nephi 1         |                 | 25              | 
+| 776             | wilderness      | Nephi 1         |                 | 25              | 
+| 777             | until           | Nephi 1         |                 | 25              | 
+| 778             | we              | Nephi 1         |                 | 25              | 
+| 779             | have            | Nephi 1         |                 | 25              | 
+| 780             | accomplished    | Nephi 1         |                 | 25              | 
+| 781             | the             | Nephi 1         |                 | 25              | 
+| 782             | thing           | Nephi 1         |                 | 25              | 
+| 783             | which           | Nephi 1         |                 | 25              | 
+| 784             | the             | Nephi 1         |                 | 25              | 
+| 785             | Lord            | Nephi 1         |                 | 25              | 
+| 786             | hath            | Nephi 1         |                 | 25              | 
+| 787             | commanded       | Nephi 1         |                 | 25              | 
+| 788             | us              | Nephi 1         |                 | 25              | 
+| 789             | Wherefore       | Nephi 1         |                 | 26              | 
+| 790             | let             | Nephi 1         |                 | 26              | 
+| 791             | us              | Nephi 1         |                 | 26              | 
+| 792             | be              | Nephi 1         |                 | 26              | 
+| 793             | faithful        | Nephi 1         |                 | 26              | 
+| 794             | in              | Nephi 1         |                 | 26              | 
+| 795             | keeping         | Nephi 1         |                 | 26              | 
+| 796             | the             | Nephi 1         |                 | 26              | 
+| 797             | commandments    | Nephi 1         |                 | 26              | 
+| 798             | of              | Nephi 1         |                 | 26              | 
+| 799             | the             | Nephi 1         |                 | 26              | 
+| 800             | Lord            | Nephi 1         |                 | 26              | 
+| 801             | therefore       | Nephi 1         |                 | 26              | 
+| 802             | let             | Nephi 1         |                 | 26              | 
+| 803             | us              | Nephi 1         |                 | 26              | 
+| 804             | go              | Nephi 1         |                 | 26              | 
+| 805             | down            | Nephi 1         |                 | 26              | 
+| 806             | to              | Nephi 1         |                 | 26              | 
+| 807             | the             | Nephi 1         |                 | 26              | 
+| 808             | land            | Nephi 1         |                 | 26              | 
+| 809             | of              | Nephi 1         |                 | 26              | 
+| 810             | our             | Nephi 1         |                 | 26              | 
+| 811             | father's        | Nephi 1         |                 | 26              | 
+| 812             | inheritance     | Nephi 1         |                 | 26              | 
+| 813             | for             | Nephi 1         |                 | 26              | 
+| 814             | behold          | Nephi 1         |                 | 26              | 
+| 815             | he              | Nephi 1         |                 | 26              | 
+| 816             | left            | Nephi 1         |                 | 26              | 
+| 817             | gold            | Nephi 1         |                 | 26              | 
+| 818             | and             | Nephi 1         |                 | 26              | 
+| 819             | silver          | Nephi 1         |                 | 26              | 
+| 820             | and             | Nephi 1         |                 | 26              | 
+| 821             | all             | Nephi 1         |                 | 26              | 
+| 822             | manner          | Nephi 1         |                 | 26              | 
+| 823             | of              | Nephi 1         |                 | 26              | 
+| 824             | riches          | Nephi 1         |                 | 26              | 
+| 825             | And             | Nephi 1         |                 | 26              | 
+| 826             | all             | Nephi 1         |                 | 26              | 
+| 827             | this            | Nephi 1         |                 | 26              | 
+| 828             | he              | Nephi 1         |                 | 26              | 
+| 829             | hath            | Nephi 1         |                 | 26              | 
+| 830             | done            | Nephi 1         |                 | 26              | 
+| 831             | because         | Nephi 1         |                 | 26              | 
+| 832             | of              | Nephi 1         |                 | 26              | 
+| 833             | the             | Nephi 1         |                 | 26              | 
+| 834             | commandments    | Nephi 1         |                 | 26              | 
+| 835             | of              | Nephi 1         |                 | 26              | 
+| 836             | the             | Nephi 1         |                 | 26              | 
+| 837             | Lord            | Nephi 1         |                 | 26              | 
+| 838             | For             | Nephi 1         |                 | 27              | 
+| 839             | he              | Nephi 1         |                 | 27              | 
+| 840             | knew            | Nephi 1         |                 | 27              | 
+| 841             | that            | Nephi 1         |                 | 27              | 
+| 842             | Jerusalem       | Nephi 1         |                 | 27              | 
+| 843             | must            | Nephi 1         |                 | 27              | 
+| 844             | be              | Nephi 1         |                 | 27              | 
+| 845             | destroyed       | Nephi 1         |                 | 27              | 
+| 846             | because         | Nephi 1         |                 | 27              | 
+| 847             | of              | Nephi 1         |                 | 27              | 
+| 848             | the             | Nephi 1         |                 | 27              | 
+| 849             | wickedness      | Nephi 1         |                 | 27              | 
+| 850             | of              | Nephi 1         |                 | 27              | 
+| 851             | the             | Nephi 1         |                 | 27              | 
+| 852             | people          | Nephi 1         |                 | 27              | 
+| 853             | For             | Nephi 1         |                 | 28              | 
+| 854             | behold          | Nephi 1         |                 | 28              | 
+| 855             | they            | Nephi 1         |                 | 28              | 
+| 856             | have            | Nephi 1         |                 | 28              | 
+| 857             | rejected        | Nephi 1         |                 | 28              | 
+| 858             | the             | Nephi 1         |                 | 28              | 
+| 859             | words           | Nephi 1         |                 | 28              | 
+| 860             | of              | Nephi 1         |                 | 28              | 
+| 861             | the             | Nephi 1         |                 | 28              | 
+| 862             | prophets        | Nephi 1         |                 | 28              | 
+| 863             | Wherefore       | Nephi 1         |                 | 28              | 
+| 864             | if              | Nephi 1         |                 | 28              | 
+| 865             | my              | Nephi 1         |                 | 28              | 
+| 866             | father          | Nephi 1         |                 | 28              | 
+| 867             | should          | Nephi 1         |                 | 28              | 
+| 868             | dwell           | Nephi 1         |                 | 28              | 
+| 869             | in              | Nephi 1         |                 | 28              | 
+| 870             | the             | Nephi 1         |                 | 28              | 
+| 871             | land            | Nephi 1         |                 | 28              | 
+| 872             | after           | Nephi 1         |                 | 28              | 
+| 873             | he              | Nephi 1         |                 | 28              | 
+| 874             | hath            | Nephi 1         |                 | 28              | 
+| 875             | been            | Nephi 1         |                 | 28              | 
+| 876             | commanded       | Nephi 1         |                 | 28              | 
+| 877             | to              | Nephi 1         |                 | 28              | 
+| 878             | flee            | Nephi 1         |                 | 28              | 
+| 879             | out             | Nephi 1         |                 | 28              | 
+| 880             | of              | Nephi 1         |                 | 28              | 
+| 881             | the             | Nephi 1         |                 | 28              | 
+| 882             | land            | Nephi 1         |                 | 28              | 
+| 883             | behold          | Nephi 1         |                 | 28              | 
+| 884             | he              | Nephi 1         |                 | 28              | 
+| 885             | would           | Nephi 1         |                 | 28              | 
+| 886             | also            | Nephi 1         |                 | 28              | 
+| 887             | perish          | Nephi 1         |                 | 28              | 
+| 888             | Wherefore       | Nephi 1         |                 | 28              | 
+| 889             | it              | Nephi 1         |                 | 28              | 
+| 890             | must            | Nephi 1         |                 | 28              | 
+| 891             | needs           | Nephi 1         |                 | 28              | 
+| 892             | be              | Nephi 1         |                 | 28              | 
+| 893             | that            | Nephi 1         |                 | 28              | 
+| 894             | he              | Nephi 1         |                 | 28              | 
+| 895             | flee            | Nephi 1         |                 | 28              | 
+| 896             | out             | Nephi 1         |                 | 28              | 
+| 897             | of              | Nephi 1         |                 | 28              | 
+| 898             | the             | Nephi 1         |                 | 28              | 
+| 899             | land            | Nephi 1         |                 | 28              | 
+| 900             | And             | Nephi 1         |                 | 29              | 
+| 901             | behold          | Nephi 1         |                 | 29              | 
+| 902             | it              | Nephi 1         |                 | 29              | 
+| 903             | is              | Nephi 1         |                 | 29              | 
+| 904             | wisdom          | Nephi 1         |                 | 29              | 
+| 905             | in              | Nephi 1         |                 | 29              | 
+| 906             | God             | Nephi 1         |                 | 29              | 
+| 907             | that            | Nephi 1         |                 | 29              | 
+| 908             | we              | Nephi 1         |                 | 29              | 
+| 909             | should          | Nephi 1         |                 | 29              | 
+| 910             | obtain          | Nephi 1         |                 | 29              | 
+| 911             | these           | Nephi 1         |                 | 29              | 
+| 912             | records         | Nephi 1         |                 | 29              | 
+| 913             | that            | Nephi 1         |                 | 29              | 
+| 914             | we              | Nephi 1         |                 | 29              | 
+| 915             | may             | Nephi 1         |                 | 29              | 
+| 916             | preserve        | Nephi 1         |                 | 29              | 
+| 917             | unto            | Nephi 1         |                 | 29              | 
+| 918             | our             | Nephi 1         |                 | 29              | 
+| 919             | children        | Nephi 1         |                 | 29              | 
+| 920             | the             | Nephi 1         |                 | 29              | 
+| 921             | language        | Nephi 1         |                 | 29              | 
+| 922             | of              | Nephi 1         |                 | 29              | 
+| 923             | our             | Nephi 1         |                 | 29              | 
+| 924             | fathers         | Nephi 1         |                 | 29              | 
+| 925             | And             | Nephi 1         |                 | 30              | 
+| 926             | also            | Nephi 1         |                 | 30              | 
+| 927             | that            | Nephi 1         |                 | 30              | 
+| 928             | we              | Nephi 1         |                 | 30              | 
+| 929             | may             | Nephi 1         |                 | 30              | 
+| 930             | preserve        | Nephi 1         |                 | 30              | 
+| 931             | unto            | Nephi 1         |                 | 30              | 
+| 932             | them            | Nephi 1         |                 | 30              | 
+| 933             | the             | Nephi 1         |                 | 30              | 
+| 934             | words           | Nephi 1         |                 | 30              | 
+| 935             | which           | Nephi 1         |                 | 30              | 
+| 936             | have            | Nephi 1         |                 | 30              | 
+| 937             | been            | Nephi 1         |                 | 30              | 
+| 938             | spoken          | Nephi 1         |                 | 30              | 
+| 939             | by              | Nephi 1         |                 | 30              | 
+| 940             | the             | Nephi 1         |                 | 30              | 
+| 941             | mouth           | Nephi 1         |                 | 30              | 
+| 942             | of              | Nephi 1         |                 | 30              | 
+| 943             | all             | Nephi 1         |                 | 30              | 
+| 944             | the             | Nephi 1         |                 | 30              | 
+| 945             | holy            | Nephi 1         |                 | 30              | 
+| 946             | prophets        | Nephi 1         |                 | 30              | 
+| 947             | which           | Nephi 1         |                 | 30              | 
+| 948             | have            | Nephi 1         |                 | 30              | 
+| 949             | been            | Nephi 1         |                 | 30              | 
+| 950             | delivered       | Nephi 1         |                 | 30              | 
+| 951             | unto            | Nephi 1         |                 | 30              | 
+| 952             | them            | Nephi 1         |                 | 30              | 
+| 953             | by              | Nephi 1         |                 | 30              | 
+| 954             | the             | Nephi 1         |                 | 30              | 
+| 955             | Spirit          | Nephi 1         |                 | 30              | 
+| 956             | and             | Nephi 1         |                 | 30              | 
+| 957             | power           | Nephi 1         |                 | 30              | 
+| 958             | of              | Nephi 1         |                 | 30              | 
+| 959             | God             | Nephi 1         |                 | 30              | 
+| 960             | since           | Nephi 1         |                 | 30              | 
+| 961             | the             | Nephi 1         |                 | 30              | 
+| 962             | world           | Nephi 1         |                 | 30              | 
+| 963             | began           | Nephi 1         |                 | 30              | 
+| 964             | even            | Nephi 1         |                 | 30              | 
+| 965             | down            | Nephi 1         |                 | 30              | 
+| 966             | unto            | Nephi 1         |                 | 30              | 
+| 967             | this            | Nephi 1         |                 | 30              | 
+| 968             | present         | Nephi 1         |                 | 30              | 
+| 969             | time            | Nephi 1         |                 | 30              | 
