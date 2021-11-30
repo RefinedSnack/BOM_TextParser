@@ -5,10 +5,9 @@
 #ifndef BOM_TEXTPARSER_WORD_H
 #define BOM_TEXTPARSER_WORD_H
 
-
+#include "Token.h"
 class Word
 {
-
 };
 
 

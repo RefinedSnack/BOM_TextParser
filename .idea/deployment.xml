@@ -5,10 +5,12 @@
       <paths name="Remote Host (d7513ed7-832b-4d6e-8895-c5144bf208b2)">
         <serverdata>
           <mappings>
-            <mapping deploy="/tmp/tmp.CASkUr1J42" local="$PROJECT_DIR$" />
+            <mapping deploy="/BOM_TextParser" local="$PROJECT_DIR$" />
           </mappings>
           <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-visual-studio" />
             <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug-remote" />
           </excludedPaths>
         </serverdata>
       </paths>
