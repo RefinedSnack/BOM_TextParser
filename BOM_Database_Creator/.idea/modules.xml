@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/BOM_TextParser.iml" filepath="$PROJECT_DIR$/.idea/BOM_TextParser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BOM_Database_Creator.iml" filepath="$PROJECT_DIR$/BOM_Database_Creator.iml" />
     </modules>
   </component>
 </project>

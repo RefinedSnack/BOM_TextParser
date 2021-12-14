@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30bab595-580b-4d70-a9f6-f49da576e0f8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/BOM_TextParser/OutputEncoder.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOM_TextParser/json-develop.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOM_TextParser/json.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOM_TextParser/output/Tokens.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOM_TextParser/output/Verses.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOM_TextParser/output/Words.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOM_TextParser/Parser.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/BOM_TextParser/Parser.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOM_TextParser/database.db" beforeDir="false" afterPath="$PROJECT_DIR$/BOM_TextParser/database.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOM_TextParser/output/Tokens.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOM_TextParser/output/Verses.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BOM_TextParser/output/Words.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/BOM_TextParser" />
+  </component>
+  <component name="ProjectId" id="22IALZc7cwuJrY73ByIJO4T1MRj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/BOM_Database_Creator" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30bab595-580b-4d70-a9f6-f49da576e0f8" name="Changes" comment="" />
+      <created>1639514675121</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639514675121</updated>
+    </task>
+    <servers />
+  </component>
+</project>
