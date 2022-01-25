@@ -1,28 +1,12 @@
-DROP TABLE IF EXISTS token;
-DROP TABLE IF EXISTS word;
-DROP TABLE IF EXISTS verse;
+DROP TABLE IF EXISTS tokens;
+DROP TABLE IF EXISTS words;
+DROP TABLE IF EXISTS verses;
+DROP TABLE IF EXISTS punctuation;
 
-CREATE TABLE tokens
+CREATE TABLE punctuation
 (
     id INTEGER NOT NULL PRIMARY KEY,
-    wordValue VARCHAR(255) NOT NULL,
-    speaker VARCHAR(255),
-    scribe VARCHAR(255),
-    partOfSpeech VARCHAR(255),
-    verseID INTEGER NOT NULL
-);
-
-CREATE TABLE words
-(
-    value VARCHAR(255) NOT NULL PRIMARY KEY,
-    frequency INTEGER NOT NULL,
-);
-
-CREATE TABLE verses
-(
-    id INTEGER NOT NULL PRIMARY KEY,
-    book VARCHAR(255) NOT NULL,
-    chapter INTEGER NOT NULL,
-    verseNumber INTEGER NOT NULL,
-    firstTokenID INTEGER NOT NULL
+    tokenIdAfter INTEGER NOT NULL,
+    tokenIdBefore INTEGER NOT NULL,
+    value VARCHAR(255) NOT NULL
 );

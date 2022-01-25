@@ -1,20 +1,21 @@
 package Model;
 
+import java.util.Locale;
+
 public class Word
 {
     String value = null;
     Integer frequency = null;
 
-    public Word(String value)
-    {
-        this.value = value;
-        frequency = 0;
-    }
-
     public Word(String value, Integer frequency)
     {
-        this.value = value;
+        if (value != null)
+            this.value = value.toUpperCase();
         this.frequency = frequency;
+    }
+    public void toUpper()
+    {
+        value = value.toUpperCase(Locale.ROOT);
     }
 
     public void incrementFrequency()

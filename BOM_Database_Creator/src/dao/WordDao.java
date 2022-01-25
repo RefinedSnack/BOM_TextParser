@@ -86,9 +86,9 @@ public class WordDao
     public void add(String wordValue) throws DataAccessException
     {
         Word word = find(wordValue);
-        if (word != null)
+        if (word == null)
         {
-            insert(new Word(wordValue, 0));
+            insert(new Word(wordValue, 1));
         }
         else
         {

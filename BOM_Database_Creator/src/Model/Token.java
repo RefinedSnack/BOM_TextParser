@@ -1,5 +1,7 @@
 package Model;
 
+import java.util.Locale;
+
 public class Token
 {
     Integer id = null;
@@ -12,11 +14,27 @@ public class Token
     public Token(Integer id, String wordValue, String speaker, String scribe, String partOfSpeech, Integer verseID)
     {
         this.id = id;
-        this.wordValue = wordValue;
-        this.speaker = speaker;
-        this.scribe = scribe;
-        this.partOfSpeech = partOfSpeech;
+        if (wordValue != null)
+            this.wordValue = wordValue.toUpperCase(Locale.ROOT);
+        if (speaker != null)
+            this.speaker = speaker.toUpperCase(Locale.ROOT);
+        if (scribe != null)
+            this.scribe = scribe.toUpperCase(Locale.ROOT);
+        if (partOfSpeech != null)
+            this.partOfSpeech = partOfSpeech.toUpperCase(Locale.ROOT);
         this.verseID = verseID;
+    }
+
+    public void toUpper()
+    {
+        if (wordValue != null)
+            this.wordValue = wordValue.toUpperCase(Locale.ROOT);
+        if (speaker != null)
+            this.speaker = speaker.toUpperCase(Locale.ROOT);
+        if (scribe != null)
+            this.scribe = scribe.toUpperCase(Locale.ROOT);
+        if (partOfSpeech != null)
+            this.partOfSpeech = partOfSpeech.toUpperCase(Locale.ROOT);
     }
 
     public Integer getId()

@@ -1,6 +1,7 @@
 package dao;
 
 import Model.Token;
+import Model.Verse;
 
 import java.sql.*;
 import java.util.HashSet;
@@ -14,47 +15,6 @@ public class VerseDao
         this.connection = connection;
     }
 
-    public Set<Token> find(String wordValue) throws DataAccessException
-    {
-        Token currToken;
-        Set<Token> outputSet = new HashSet<>();
-        ResultSet rs = null;
-        String sql = "SELECT * FROM tokens WHERE wordValue = ?;";
-        try (PreparedStatement stmt = connection.prepareStatement(sql))
-        {
-            stmt.setString(1, wordValue);
-            rs = stmt.executeQuery();
-            if (rs.isClosed())
-                return outputSet;
-            while (rs.next())
-            {
-                currToken = new Token(rs.getInt("id"),
-                        rs.getString("wordValue"),
-                        rs.getString("speaker"),
-                        rs.getString("scribe"),
-                        rs.getString("partOfSpeech"),
-                        rs.getInt("verseID"));
-                outputSet.add(currToken);
-            }
-        } catch (SQLException e)
-        {
-            e.printStackTrace();
-            throw new DataAccessException("Error encountered while finding tokens");
-        } finally
-        {
-            if (rs != null)
-            {
-                try
-                {
-                    rs.close();
-                } catch (SQLException e)
-                {
-                    e.printStackTrace();
-                }
-            }
-        }
-        return outputSet;
-    }
     public Token find(Integer tokenId) throws DataAccessException
     {
         Token output;
@@ -95,18 +55,16 @@ public class VerseDao
         }
         return null;
     }
-    public void insert(Token token) throws DataAccessException
+    public void insert(Verse verse) throws DataAccessException
     {
-        String sql = "INSERT INTO tokens (id, wordValue, speaker, scribe, partOfSpeech, verseID) VALUES(?,?,?,?,?,?)";
+        String sql = "INSERT INTO verses (id, book, chapter, verseNumber, firstTokenID) VALUES(?,?,?,?,?)";
         try (PreparedStatement stmt = connection.prepareStatement(sql))
         {
-            stmt.setInt(1, token.getId());
-            stmt.setString(2, token.getWordValue());
-            stmt.setString(3, token.getSpeaker());
-            stmt.setString(4, token.getScribe());
-            stmt.setString(5, token.getPartOfSpeech());
-            stmt.setInt(6, token.getVerseID());
-
+            stmt.setInt(1, verse.getId());
+            stmt.setString(2, verse.getBook());
+            stmt.setInt(3, verse.getChapter());
+            stmt.setInt(4, verse.getVerseNumber());
+            stmt.setInt(5, verse.getFirstTokenID());
             stmt.executeUpdate();
         } catch (SQLException e)
         {
@@ -115,23 +73,21 @@ public class VerseDao
         }
     }
 
-    public void replace(Token token) throws DataAccessException
+    public void replace(Verse verse) throws DataAccessException
     {
-        String sql = "REPLACE INTO tokens (id, wordValue, speaker, scribe, partOfSpeech, verseID) VALUES(?,?,?,?,?,?)";
+        String sql = "REPLACE INTO verses (id, book, chapter, verseNumber, firstTokenID) VALUES(?,?,?,?,?)";
         try (PreparedStatement stmt = connection.prepareStatement(sql))
         {
-            stmt.setInt(1, token.getId());
-            stmt.setString(2, token.getWordValue());
-            stmt.setString(3, token.getSpeaker());
-            stmt.setString(4, token.getScribe());
-            stmt.setString(5, token.getPartOfSpeech());
-            stmt.setInt(6, token.getVerseID());
-
+            stmt.setInt(1, verse.getId());
+            stmt.setString(2, verse.getBook());
+            stmt.setInt(3, verse.getChapter());
+            stmt.setInt(4, verse.getVerseNumber());
+            stmt.setInt(5, verse.getFirstTokenID());
             stmt.executeUpdate();
         } catch (SQLException e)
         {
             e.printStackTrace();
-            throw new DataAccessException("Error encountered while replacing a token in the database");
+            throw new DataAccessException("Error encountered while inserting token into the database");
         }
     }
 
@@ -139,7 +95,7 @@ public class VerseDao
     {
         try (Statement stmt = connection.createStatement())
         {
-            String sql = "DELETE FROM token";
+            String sql = "DELETE FROM verses";
             stmt.executeUpdate(sql);
         } catch (SQLException e)
         {
@@ -149,7 +105,7 @@ public class VerseDao
     }
     public void clear(Integer tokenId) throws DataAccessException
     {
-        String sql = "DELETE FROM tokens WHERE id = ?";
+        String sql = "DELETE FROM verses WHERE id = ?";
         try (PreparedStatement stmt = connection.prepareStatement(sql))
         {
             stmt.setInt(1, tokenId);

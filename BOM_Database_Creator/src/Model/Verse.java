@@ -1,5 +1,7 @@
 package Model;
 
+import java.util.Locale;
+
 public class Verse
 {
     Integer id = null;
@@ -11,10 +13,16 @@ public class Verse
     public Verse(Integer id, String book, Integer chapter, Integer verseNumber, Integer firstTokenID)
     {
         this.id = id;
-        this.book = book;
+        if (book != null)
+            this.book = book.toUpperCase(Locale.ROOT);
         this.chapter = chapter;
         this.verseNumber = verseNumber;
         this.firstTokenID = firstTokenID;
+    }
+
+    public void toUpper()
+    {
+        book = book.toUpperCase(Locale.ROOT);
     }
 
     public Integer getId()

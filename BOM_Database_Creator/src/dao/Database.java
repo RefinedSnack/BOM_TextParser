@@ -1,5 +1,7 @@
 package dao;
 
+import Model.Punctuation;
+import Model.Token;
 import Model.Verse;
 
 import java.lang.invoke.VarHandle;
@@ -15,7 +17,7 @@ public class Database
     }
 
     private static Database instance = null;
-    private static Database getInstance() throws DataAccessException
+    public static Database getInstance() throws DataAccessException
     {
         if (instance == null)
             instance = new Database();
@@ -27,6 +29,8 @@ public class Database
     private Connection conn = null;
     private TokenDao tokenDao = null;
     private VerseDao verseDao = null;
+    private WordDao wordDao = null;
+    private PunctuationDao punctuationDao = null;
 
 
     //Whenever we want to make a change to our database we will have to open a connection and use
@@ -55,6 +59,8 @@ public class Database
     {
         tokenDao = new TokenDao(conn);
         verseDao = new VerseDao(conn);
+        wordDao = new WordDao(conn);
+        punctuationDao = new PunctuationDao(conn);
     }
 
     public Connection getConn()
@@ -69,6 +75,14 @@ public class Database
     public VerseDao getVerseDao()
     {
         return verseDao;
+    }
+    public PunctuationDao getPunctuationDao()
+    {
+        return punctuationDao;
+    }
+    public WordDao getWordDao()
+    {
+        return wordDao;
     }
 
     public void closeConnection(boolean commit) throws DataAccessException
@@ -92,6 +106,25 @@ public class Database
             e.printStackTrace();
             throw new DataAccessException("Unable to close database connection");
         }
+    }
+
+    public void addToken(Token t) throws DataAccessException
+    {
+        tokenDao.insert(t);
+        wordDao.add(t.getWordValue());
+    }
+
+    public void addPunctuation(Punctuation p) throws DataAccessException
+    {
+        punctuationDao.insert(p);
+    }
+
+    public void clear() throws DataAccessException
+    {
+        tokenDao.clear();
+        punctuationDao.clear();
+        wordDao.clear();
+        verseDao.clear();
     }
 }
 
