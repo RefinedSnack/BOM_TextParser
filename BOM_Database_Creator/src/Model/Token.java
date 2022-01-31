@@ -96,4 +96,18 @@ public class Token
     {
         this.verseID = verseID;
     }
+
+    @Override
+    public String toString()
+    {
+        final StringBuilder sb = new StringBuilder();
+        sb.append("id=").append(id);
+        sb.append(", wordValue='").append(wordValue).append('\'');
+        sb.append(", speaker='").append(speaker).append('\'');
+        sb.append(", scribe='").append(scribe).append('\'');
+        sb.append(", partOfSpeech='").append(partOfSpeech).append('\'');
+        sb.append(", verseID=").append(verseID);
+        sb.append('}');
+        return sb.toString();
+    }
 }

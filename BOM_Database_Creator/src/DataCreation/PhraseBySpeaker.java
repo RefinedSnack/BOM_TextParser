@@ -1,6 +1,7 @@
 package DataCreation;
 
 import Model.PhraseSpeakerMap;
+import Model.Punctuation;
 import Model.Token;
 import Model.Word;
 import com.google.gson.Gson;
@@ -15,7 +16,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.*;
-
+/*
 public class PhraseBySpeaker
 {
     public static void main(String[] args)
@@ -24,13 +25,18 @@ public class PhraseBySpeaker
         {
             int i = 1;
             List<PhraseSpeakerMap> phrasesBySpeakers = new ArrayList<>();
-            Gson gson = new GsonBuilder().setPrettyPrinting().create();
-            String[][] phrases = gson.fromJson(reader, String[][].class);
-            for (String[] currPhrase : phrases)
+            Set<String> words = new HashSet<>();
+            String[] wordArr = { "ALBEIT", "ALSO", "ALTHOUGH", "AND", "AS", "BECAUSE", "BUT", "FORASMUCH", "HOWBEIT", "HOWEVER", "HOWSOEVER", "IF", "INASMUCH", "LEST", "NOR", "OR", "OTHERWISE", "SINCE", "SO", "SUPPOSING", "THOUGH", "UNLESS", "WHENEVER", "WHENSOEVER", "WHEREAS", "WHEREBY", "WHERESOEVER", "WHEREVER", "WHETHER", "WHILE", "WHILES", "WHILST", "WHITHER", "WHITHERSOEVER", "YET" };
+            for (String w : wordArr)
+                words.add(w);
+
+
+            for (Punctuation currPunct : total)
             {
-                PhraseBySpeaker currPhraseBySpeaker = new PhraseBySpeaker(Arrays.asList(currPhrase));
+                createCSVFile(phrases, phrasesBySpeakers, "output/conjuctionStarts" + i + ".csv");
+
                 phrasesBySpeakers.add(currPhraseBySpeaker.getSpeakersFrequency());
-                createCSVFile(phrases, phrasesBySpeakers, "output/deity" + i + ".csv");
+
                 System.out.print(i + "\t");
                 i++;
             }
@@ -119,4 +125,4 @@ public class PhraseBySpeaker
         sb.append('}');
         return sb.toString();
     }
-}
+}*/
