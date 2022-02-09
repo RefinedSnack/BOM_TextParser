@@ -59,7 +59,6 @@ public class PhraseSpeakerMap
 
 
     public List<String> speakers = Arrays.asList(
-                    "",
                     "SATAN",
                     "JARED 1",
                     "BROTHER OF JARED",

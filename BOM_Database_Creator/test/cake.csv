@@ -1,0 +1,7 @@
+1-gram,2-gram,3-gram,4-gram,5-gram,6-gram,Total Frequency,E,F,G
+AND,,,,,,0,0,0,0
+AND,IT,,,,,0,0,0,0
+AND,IT,CAKE,,,,0,0,0,0
+AND,IT,CAKE,PASS,,,0,0,0,0
+AND,IT,CAKE,PASS,PASS,,0,0,0,0
+AND,IT,CAKE,PASS,PASS,PASS,1,0,0,1

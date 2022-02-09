@@ -10,7 +10,35 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\output\allOccurrences.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\output\cake.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\output\deity202.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\output\deity203.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\output\wow.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -46,6 +74,13 @@
           </value>
         </entry>
         <entry key="\test5.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\test\cake.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
